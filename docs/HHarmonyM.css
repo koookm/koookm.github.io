@@ -1,0 +1,8 @@
+/* fonts */
+@font-face {
+    font-family: 'Hyundai HarmonyM';
+    font-style: normal;
+    font-weight: 700;
+    src: url('https://koookm.github.io/HHarmonyM.woff') format('woff'),
+        url('https://koookm.github.io/HHarmonyM.ttf') format('truetype');
+}

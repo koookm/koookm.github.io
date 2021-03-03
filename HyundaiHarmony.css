@@ -3,8 +3,8 @@
     font-family: 'HyundaiHarmony';
     font-style: normal;
     font-weight: 400;
-    src: url('https://raw.githubusercontent.com/koookm/koookm.github.io/master/HyundaiHarmony.eot');
-    src: url('https://raw.githubusercontent.com/koookm/koookm.github.io/master/HyundaiHarmony.eot?#iefix') format('embedded-opentype'),
-        url('https://raw.githubusercontent.com/koookm/koookm.github.io/master/HyundaiHarmony.woff') format('woff'),
-        url('https://raw.githubusercontent.com/koookm/koookm.github.io/master/HyundaiHarmony.ttf') format('truetype');
+    src: url('/koookm/koookm.github.io/master/HyundaiHarmony.eot');
+    src: url('/koookm/koookm.github.io/master/HyundaiHarmony.eot?#iefix') format('embedded-opentype'),
+        url('/koookm/koookm.github.io/master/HyundaiHarmony.woff') format('woff'),
+        url('/koookm/koookm.github.io/master/HyundaiHarmony.ttf') format('truetype');
 }

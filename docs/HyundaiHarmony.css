@@ -8,31 +8,3 @@
     url('https://koookm.github.io/HyundaiHarmony.woff') format('woff'),
     url('https://koookm.github.io/HyundaiHarmony.ttf') format('truetype');
 }
-
-@font-face {
-    font-family: 'HHarmonyM';
-    font-style: normal;
-    font-weight: 700;
-    src: url('https://koookm.github.io/HHarmonyM.eot');
-    src: url('https://koookm.github.io/HHarmonyM.eot?#iefix') format('embedded-opentype'),
-        url('https://koookm.github.io/HHarmonyM.woff') format('woff'),
-        url('https://koookm.github.io/HHarmonyM.ttf') format('truetype');
-}
-@font-face {
-    font-family: 'harmonyB';
-    font-style: normal;
-    font-weight: 700;
-    src: url('https://koookm.github.io/harmonyB.eot');
-    src: url('https://koookm.github.io/harmonyB.eot?#iefix') format('embedded-opentype'),
-        url('https://koookm.github.io/harmonyB.woff') format('woff'),
-        url('https://koookm.github.io/harmonyB.ttf') format('truetype');
-}
-@font-face {
-    font-family: 'HHarmonyL';
-    font-style: normal;
-    font-weight: 700;
-    src: url('https://koookm.github.io/HHarmonyL.eot');
-    src: url('https://koookm.github.io/HHarmonyL.eot?#iefix') format('embedded-opentype'),
-        url('https://koookm.github.io/HHarmonyL.woff') format('woff'),
-        url('https://koookm.github.io/HHarmonyL.ttf') format('truetype');
-}

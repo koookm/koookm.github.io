@@ -3,8 +3,6 @@
     font-family: 'HyundaiHarmony';
     font-style: normal;
     font-weight: 400;
-    src: url('https://koookm.github.io/HyundaiHarmony.eot');
-    src: url('https://koookm.github.io/HyundaiHarmony.eot?#iefix') format('embedded-opentype'),
-    url('https://koookm.github.io/HyundaiHarmony.woff') format('woff'),
+    src: url('https://koookm.github.io/HyundaiHarmony.woff') format('woff'),
     url('https://koookm.github.io/HyundaiHarmony.ttf') format('truetype');
 }
